@@ -12,7 +12,7 @@ The removal of Thomas High School's 9th grade students from the dataset had mini
 
 #### Updated PyCity School District Summary
 
-![PCS_District_Summary_2](https://github.com/worksm/School_District_Analysis/blob/d80e0c9a40cb5983a7b92439bdce82d9131f07e5/School_District_Analysis/Resources/PCS_District_Summary_2.png)
+![PCS_District_Summary_2](https://github.com/worksm/School_District_Analysis/blob/baed51f1ba405f047d837034fba25c894ab7f217/School_District_Analysis/Resources/PCS_District_Summary_2.png)
 
 How is the school summary affected?
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
