@@ -9,7 +9,7 @@ The school district analysis aims to provide the client wiht a high-level overvi
 
   * #### Original PyCity School District Summary
 
-![PCS_District_Summary_1](https://github.com/worksm/School_District_Analysis/blob/828659908e4cedb3fdfb31555dc14a54df1dc4f8/School_District_Analysis/Resources/PCS_District_Summary_1.png)
+![PCS_District_Summary_1](https://github.com/worksm/School_District_Analysis/blob/70b122487fe070c1ad940565d68027b51125c04d/School_District_Analysis/Resources/PCS_District_Summary_1.png)
 
   * #### Updated PyCity School District Summary
 
