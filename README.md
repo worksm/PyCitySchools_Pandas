@@ -20,10 +20,12 @@ Provide a high-level overview of PyCity School Districts' key metrics, presented
  * ### Original PyCity School Summary
 ![PCS_School_Summary_1](https://github.com/worksm/School_District_Analysis/blob/0c2252bb5e6743a775f0032ddcc5a4f0e06a4a2e/School_District_Analysis/Resources/PCS_School_Summary_1.png)
 
-![PCS_School_Summary_2](
+![PCS_School_Summary_2](https://github.com/worksm/School_District_Analysis/blob/c7b75b87c0b3944fc4ecfef85ba0d9d9707b969e/School_District_Analysis/Resources/PCS_School_Summary_2.png)
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-How does replacing the ninth-grade scores affect the following:
+* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+ * Replacing the ninth graders' math and reading scores had no affect on Thomas High School's performance in relation to other schools. Even without the 9th grade scores, Thomas High School remained the second highest performing top school in the district. 
+
+* How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 Scores by school spending
 Scores by school size
