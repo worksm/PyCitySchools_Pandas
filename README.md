@@ -16,9 +16,9 @@ Provide a high-level overview of PyCity School Districts' key metrics, presented
 
 * How is the school summary affected?
   * Thomas High School saw a slight reduction in scores. See below. 
-
-![PCS_School_Summary_1](
-
+ 
+ * ### Original PyCity School Summary
+![PCS_School_Summary_1](https://github.com/worksm/School_District_Analysis/blob/0c2252bb5e6743a775f0032ddcc5a4f0e06a4a2e/School_District_Analysis/Resources/PCS_School_Summary_1.png)
 
 ![PCS_School_Summary_2](
 
