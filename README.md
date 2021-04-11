@@ -26,7 +26,10 @@ Provide a high-level overview of PyCity School Districts' key metrics, presented
  * Replacing the ninth graders' math and reading scores had no affect on Thomas High School's performance in relation to other schools. Even without the 9th grade scores, Thomas High School remained the second highest performing top school in the district. 
 
 * How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
+ * Math and reading scores by grade are impacted in the data frame view, Thomas High School 9th grade field has a Nan value. 
+
+ * ### Grades DF View
+![PCS_Grades_Replace](
 Scores by school spending
 Scores by school size
 Scores by school type
