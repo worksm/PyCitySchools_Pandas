@@ -35,5 +35,5 @@ The school district analysis aims to provide the client wiht a high-level overvi
 * Scores by school spending, by school size, and school type weren't impacted in any meaningful way. When values were formatted to the nearest whole number, there weren't any value changes within the respective data frames. 
 
 ## Summary: 
-In summary, the removal of the Thomas High School ninth grade scores had minimal impact on outcomes. The biggest change was made to the dataset itself, utilizing the loc method to efficiently replace any 9th grade reading or math score with a value of "Nan". Thomas High School math scores and reading scores changed slightly.  
+In summary, the removal of the Thomas High School ninth grade scores had minimal impact on outcomes. The biggest change was made to the dataset itself, utilizing the loc method to efficiently replace any 9th grade reading or math score with a value of "Nan". Thomas High School math 
 
