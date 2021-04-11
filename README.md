@@ -13,7 +13,7 @@ The school district analysis aims to provide the client wiht a high-level overvi
 
   * #### Updated PyCity School District Summary
 
-![PCS_District_Summary_2](https://github.com/worksm/School_District_Analysis/blob/7c8114ea6ee74a33ecd02a85e72afbc46a7c1067/School_District_Analysis/Resources/PCS_District%20Summary_2.png)
+![PCS_District_Summary_2](https://github.com/worksm/School_District_Analysis/blob/102b103ebe3f393a1bbeba57cc69a40eab6fea90/School_District_Analysis/Resources/PCS_District_Summary_2.png)
 
 * How is the school summary affected?
   * Thomas High School saw a slight reduction in scores. See below. 
