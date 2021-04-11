@@ -6,17 +6,21 @@ Provide a high-level overview of PyCity School Districts' key metrics, presented
 * How is the district summary affected?
 ** The removal of Thomas High School's 9th grade students from the dataset had minimal impact on the district summary. Total Students, Average Math Score, % Passing Math, and % Passing Reading all had minor decreases from their original scores. See images below for details. 
 
-* #### Original PyCity School District Summary
+  * #### Original PyCity School District Summary
 
 ![PCS_District_Summary_1](https://github.com/worksm/School_District_Analysis/blob/828659908e4cedb3fdfb31555dc14a54df1dc4f8/School_District_Analysis/Resources/PCS_District_Summary_1.png)
 
-* #### Updated PyCity School District Summary
+  * #### Updated PyCity School District Summary
 
 ![PCS_District_Summary_2](https://github.com/worksm/School_District_Analysis/blob/baed51f1ba405f047d837034fba25c894ab7f217/School_District_Analysis/Resources/PCS_District_Summary_2.png)
 
 * How is the school summary affected?
-** Thomas High School 
+  * Thomas High School saw a slight reduction in scores. See below. 
 
+![PCS_School_Summary_1](
+
+
+![PCS_School_Summary_2](
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
