@@ -4,7 +4,7 @@ Analyzing PyCity school district utilizing Pandas.
 The school district analysis aims to provide the client wiht a high-level overview of PyCity School Districts' key metrics, presented in a table format. The anaylsis also includes an overview of key metrics for each school, presented in table format. The final product for the client, was refactored to remove Thomas High School's 9th grade scores, due to fear of academic dishonesty. The district analysis provides a multifocal data analysis and comprehensive view in an end-user friendly format. 
 
 ## Results:
-* How is the district summary affected?
+* ### How is the district summary affected?
  * The removal of Thomas High School's 9th grade students from the dataset had minimal impact on the district summary. Total Students, Average Math Score, % Passing Math, and % Passing Reading all had minor decreases from their original scores. See images below for details. 
 
   * #### Original PyCity School District Summary
@@ -13,7 +13,7 @@ The school district analysis aims to provide the client wiht a high-level overvi
 
   * #### Updated PyCity School District Summary
 
-![PCS_District_Summary_2](https://github.com/worksm/School_District_Analysis/blob/baed51f1ba405f047d837034fba25c894ab7f217/School_District_Analysis/Resources/PCS_District_Summary_2.png)
+![PCS_District_Summary_2](https://github.com/worksm/School_District_Analysis/blob/7c8114ea6ee74a33ecd02a85e72afbc46a7c1067/School_District_Analysis/Resources/PCS_District%20Summary_2.png)
 
 * How is the school summary affected?
   * Thomas High School saw a slight reduction in scores. See below. 
