@@ -5,7 +5,7 @@ The school district analysis aims to provide the client with a high-level overvi
 
 ## Results:
 * ### How is the district summary affected?
- * The removal of Thomas High School's 9th grade students from the dataset had minimal impact on the district summary. In fact, the original PyCity School District district summary was re-formatted to round values to the nearest tenth vs formatting to the nearest whole number to better illustrate the change in values. See below. 
+  * The removal of Thomas High School's 9th grade students from the dataset had minimal impact on the district summary. In fact, the original PyCity School District district summary was re-formatted to round values to the nearest tenth vs formatting to the nearest whole number to better illustrate the change in values. See below. 
 
 #### Original PyCity School District Summary
 
