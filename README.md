@@ -32,7 +32,7 @@ The school district analysis aims to provide the client with a high-level overvi
 ### Grades DF View
 ![PCS_Grades_Replace](https://github.com/worksm/School_District_Analysis/blob/58b2b725a09713db5c5c8980d0395a3410b257c1/School_District_Analysis/Resources/PCS_Grades_Replace.png)
 
-* Scores by school spending, by school size, and school type weren't impacted in any meaningful way. When values were formatted to the nearest whole number, there weren't any value changes within the respective dataframes. 
+* Scores by school spending, by school size, and school type weren't impacted in any meaningful way. When values were formatted to the nearest whole number, there weren't any value changes within the updated three dataframes. 
 
 ## Summary: 
 
