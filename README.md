@@ -1,7 +1,7 @@
 # School_District_Analysis
 Analyzing PyCity school district utilizing Pandas. 
 ## Overview of the school district analysis:
-The school district analysis aims to provide the client with a high-level overview of PyCity School Districts' key metrics, presented in a table format. The anaylsis also includes an overview of key metrics for each school. The final PyCity analysis code was refactored to remove Thomas High School's 9th grade scores, due to fear of academic dishonesty. The district analysis provides a multifocal data analysis and comprehensive overview, packaged an end-user friendly dataframe format. 
+The school district analysis aims to provide the client with a high-level overview of PyCity School Districts' key metrics, presented in a table format. The anaylsis also includes an overview of key metrics for each school. The final PyCity analysis code was refactored to remove Thomas High School's 9th grade scores, due to fear of academic dishonesty. The district analysis provides a multifocal data analysis and comprehensive overview, packaged in an end-user friendly dataframe format. 
 
 ## Results:
 * ### How is the district summary affected?
@@ -15,7 +15,7 @@ The school district analysis aims to provide the client with a high-level overvi
 
 ![PCS_District_Summary_2](https://github.com/worksm/School_District_Analysis/blob/102b103ebe3f393a1bbeba57cc69a40eab6fea90/School_District_Analysis/Resources/PCS_District_Summary_2.png)
 
-* How is the school summary affected?
+* ### How is the school summary affected?
   * Thomas High School saw a slight reduction in scores. See below. 
  
  * ### Original PyCity School Summary
@@ -23,10 +23,10 @@ The school district analysis aims to provide the client with a high-level overvi
 
 ![PCS_School_Summary_2](https://github.com/worksm/School_District_Analysis/blob/37242cf421b8e4911240ce6e3bc593295654a322/School_District_Analysis/Resources/PCS_School_Summary_2.png)
 
-* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+* ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
  * Replacing the ninth graders' math and reading scores had no affect on Thomas High School's performance in relation to other schools. Even without the 9th grade scores, Thomas High School remained the second highest performing school in the district. 
 
-* How does replacing the ninth-grade scores affect the following:
+* ### How does replacing the ninth-grade scores affect the following:
  * Math and reading scores by grade are impacted in the data frame view. Thomas High School 9th grade field has a Nan value. 
 
  * ### Grades DF View
